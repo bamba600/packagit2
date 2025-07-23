@@ -1,0 +1,15 @@
+{
+    "name": "bamba/nouveau-proget",
+    "autoload": {
+        "psr-4": {
+            "Bamba\\NouveauProget\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bamba100000",
+            "email": "nafissatou3582@gmail.com"
+        }
+    ],
+    "require": {}
+}
