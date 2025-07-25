@@ -1,5 +1,5 @@
 <?php
-namespace App\Core;
+namespace Bamba\Core;
 
 class Router {
     public static function resolver() {
