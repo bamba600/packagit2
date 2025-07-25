@@ -1,5 +1,5 @@
 <?php
-namespace App\Core\Abstract;
+namespace Bamba\Core\Abstract;
 
 abstract class AbstractEntity {
   abstract static public function toObject(array $data):?object;
