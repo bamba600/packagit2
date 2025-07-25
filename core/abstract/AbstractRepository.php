@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core\Abstract;
+namespace Bamba\Core\Abstract;
 
 use App\Core\App;
 
