@@ -1,5 +1,5 @@
 {
-    "name": "core",
+    "name": "Bamba/core",
     "autoload": {
         "psr-4": {
             "Bamba\\Core\\": "core/",
