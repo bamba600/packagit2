@@ -2,7 +2,7 @@
 
 namespace Bamba\Core\Abstract;
 
-use App\Core\App;
+use Bamba\Core\App;
 
 use PDO;
 
