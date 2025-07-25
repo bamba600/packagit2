@@ -1,8 +1,11 @@
 {
-    "name": "bamba/nouveau-proget",
+    "name": "core-php",
     "autoload": {
         "psr-4": {
-            "Bamba\\NouveauProget\\": "src/"
+            "Bamba\\Core\\": "core/",
+            "Bamba\\Core\\Abstract\\":"core/abstact/",
+            "Bamba\\Core\\Middlewares\\":"core/middlewares/"
+            
         }
     },
     "authors": [
