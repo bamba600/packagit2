@@ -1,5 +1,5 @@
 <?php
-namespace App\Core\Abstract;
+namespace Bamba\Core\Abstract;
 
 use App\Core\Session;
 use App\Core\App;
