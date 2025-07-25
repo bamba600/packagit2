@@ -1,6 +1,6 @@
 <?php
 namespace Bamba\Core\Middlewares;
-use App\Core\Session;
+use Bamba\Core\Session;
 
 class Auth {
     private Session $session;
