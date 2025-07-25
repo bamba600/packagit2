@@ -1,5 +1,5 @@
 <?php
-namespace App\Core\Middlewares;
+namespace Bamba\Core\Middlewares;
 use App\Core\Session;
 
 class Auth {
