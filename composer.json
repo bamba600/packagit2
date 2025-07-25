@@ -1,5 +1,5 @@
 {
-    "name": "core-php",
+    "name": "core",
     "autoload": {
         "psr-4": {
             "Bamba\\Core\\": "core/",
