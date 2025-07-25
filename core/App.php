@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core;
+namespace Bamba\Core;
 
 use Symfony\Component\Yaml\Yaml;
 
