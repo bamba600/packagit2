@@ -1,8 +1,8 @@
 <?php
 namespace Bamba\Core\Abstract;
 
-use App\Core\Session;
-use App\Core\App;
+use Bamba\Core\Session;
+use Bamba\Core\App;
 
 abstract class AbstractController{
 
