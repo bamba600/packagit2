@@ -1,5 +1,5 @@
 <?php
-namespace App\Core;
+namespace Bamba\Core;
 use PDO;
 class Database {
   private static ?PDO $pdo = null;
